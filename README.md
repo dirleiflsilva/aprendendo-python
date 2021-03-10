@@ -8,11 +8,7 @@ E adivinhem qual a linguagem de programação que é muito utilizada nestas áre
 
 **Python**
 
-<<<<<<< HEAD
 Com o passar do tempo fui acumulando alguns scripts, em *Jupyter Notebook* e arquivos *.py*, e agora estou iniciando a organização desse material neste repositório, que por enquanto estará focado em conhecimento básico da linguagem, aplicações em *Data Science/Data Engineer* e automação de tarefas maçantes.
-=======
-Com o passar do tempo fui acumulando alguns scripts, em *Jupyter Notebook* e arquivos *.py*, estou iniciando a organização desse material neste repositório, que por enquanto estará focado em conhecimento básico da linguagem, aplicações em *Data Science* e automação de tarefas maçantes.
->>>>>>> 9fbf156e0cdf3c1d161dcbc6d9dfaf56cdb0447f
 
 Sempre que possível estarei adicionando mais conteúdo e quem sabe algum deles possa ajudar outros programadores ou pelo menos despertar o interesse em aprender Python.
 
