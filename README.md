@@ -15,3 +15,9 @@ Sempre que possível estarei adicionando mais conteúdo e quem sabe algum deles 
 ## Jupyter Notebook
 
 * introducao-logica-programacao-dsa - scripts do Curso Introdução à Lógica de Programação da [DSA](https://www.datascienceacademy.com.br), com conceitos de lógica voltada para aplicações em *Data Science*. Se você está em busca de conhecimentos nesta área, recomendo dar uma espiada no site da Data Science Academy.
+
+## Scripts Python
+
+* programa1.py - uso print()
+
+* uso-super.py - entendendo herança com super() 
