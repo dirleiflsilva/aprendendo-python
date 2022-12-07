@@ -19,5 +19,10 @@ Sempre que possível estarei adicionando mais conteúdo e quem sabe algum deles 
 ## Scripts Python
 
 * programa1.py - uso print()
+* uso-super.py - entendendo herança com super()
+* compare.py - comparando lista de fontes entre arquivos
 
-* uso-super.py - entendendo herança com super() 
+### Ensine Seus Filhos a Programa - Bryson Payne
+  * `/kidscode`
+
+
